@@ -15,7 +15,21 @@ console.log(songLinks);
 
 function displaySongInfo() {
   // Complete the Day 2 goals inside this function
-}
+  songNames.forEach(function(songName){
+    $('body').append(`<div>${songName}</div>`)
+    
+   
+});
+   songArtists.forEach(function(songArtist){
+      $('body').append(`<div>${songArtist}</div>`)
+ });
+                
+  songLinks.forEach(function(songLink){
+  $('.links').append(`<div>${songLink}</div>`)
+  });
+  
+  
+  };
 
 function emptySongInfo() {
   /* this function empties the divs each time the button is 
@@ -31,6 +45,7 @@ function emptySongInfo() {
 
 function addSongInfo() {
   // Complete Day 3 goals inside this function
+  songNames.push
 }
 
 $("#add").click(function () {
