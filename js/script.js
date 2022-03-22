@@ -2,19 +2,19 @@
 let mySongs = [{
   songName: "Sucker For Pain",
   songArtist: "Lil Wayne",
-  songImage: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSucker_for_Pain&psig=AOvVaw1dzwJHSgJlt398ERoBuKGH&ust=1646867566355000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDkx_XRt_YCFQAAAAAdAAAAABAD",
+  songImage: "https://cdn.glitch.global/ac389f6e-4633-4e4f-9fa6-e09fb5003f29/1ff8798d-ae4c-4853-92dd-20b63ad93fa3.image.png?v=1647983817814",
   songLink: "https://www.youtube.com/watch?v=IO2aTF7ygPE",
 },
  {
   songName: "Middle Child",
   songArtist: "J. Cole",
-  songImage: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMiddle_Child&psig=AOvVaw3FpQA8FAHlfAKXQ1dD86vt&ust=1646867628848000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjF65fSt_YCFQAAAAAdAAAAABAD",
+  songImage: "https://cdn.glitch.global/ac389f6e-4633-4e4f-9fa6-e09fb5003f29/b93280f9-05e0-4c09-8e43-692eb029bcf7.image.png?v=1647983790616",
   songLink: "https://www.youtube.com/watch?v=WILNIXZr2oc&ab_channel=JColeVEVO",
  },
    {                
   songName: "Another Day",
   songArtist: "Kid Cudi",
-  songImage: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgenius.com%2FKid-cudi-another-day-lyrics&psig=AOvVaw3rLfSQISIL-9U30nexkNxY&ust=1646867668923000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjUiKXSt_YCFQAAAAAdAAAAABAD",
+  songImage: "https://cdn.glitch.global/ac389f6e-4633-4e4f-9fa6-e09fb5003f29/27e985f6-ec9b-4648-8487-ff54bb63caaa.image.png?v=1647983761370",
   songLink: "https://www.youtube.com/results?search_query=another+day+kid+cudi", 
  }];
 
